@@ -2,7 +2,7 @@
 
 ## For a full video demonstration, [click here](https://www.youtube.com/watch?v=M8Lv9_ZU4I0).
 
-![money box](https://github.com/tobyjbrown/arduino-money-box/aerial-view.png)
+![money box](https://github.com/tobyjbrown/arduino-money-box/blob/master/money-box-aerial-view.png)
 
 This is a project built using the Arduino Nano, a series of photo-interrupter units, an LCD screen, a servo motor and some pushbuttons. The goal for this project was to take a simple 'money box' idea and build it from scratch using the tools I already had available to me (hence the shoebox and hardware mess!). 
 
